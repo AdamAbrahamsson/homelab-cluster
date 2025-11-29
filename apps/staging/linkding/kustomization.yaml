@@ -3,3 +3,4 @@ Kind: Kustomization
 namespace: linkding
 resources:
   - ../../base/linkding/
+  - cloudflare.yaml
